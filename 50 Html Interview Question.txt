@@ -1,0 +1,50 @@
+What is HTML?
+What are the latest versions of HTML?
+What is the syntax of HTML?
+What is a tag in HTML?
+What is an attribute in HTML?
+What is the difference between HTML and XHTML?
+What are the types of lists available in HTML?
+What is the use of the <head> tag in HTML?
+What is the use of the <title> tag in HTML?
+What is the use of the <body> tag in HTML?
+What is the use of the <header> tag in HTML?
+What is the use of the <footer> tag in HTML?
+What is the use of the <nav> tag in HTML?
+What is the use of the <article> tag in HTML?
+What is the use of the <section> tag in HTML?
+What is the use of the <aside> tag in HTML?
+What is the use of the <h1> to <h6> tags in HTML?
+What is the use of the <p> tag in HTML?
+What is the use of the <a> tag in HTML?
+What is the use of the <img> tag in HTML?
+What is the use of the <form> tag in HTML?
+What is the use of the <input> tag in HTML?
+What is the use of the <button> tag in HTML?
+What is the use of the <textarea> tag in HTML?
+What is the use of the <select> tag in HTML?
+What is the use of the <option> tag in HTML?
+What is the use of the <label> tag in HTML?
+What is the use of the <fieldset> tag in HTML?
+What is the use of the <legend> tag in HTML?
+What is the use of the <table> tag in HTML?
+What is the use of the <tr> tag in HTML?
+What is the use of the <th> tag in HTML?
+What is the use of the <td> tag in HTML?
+What is the use of the <caption> tag in HTML?
+What is the use of the <ul> tag in HTML?
+What is the use of the <ol> tag in HTML?
+What is the use of the <li> tag in HTML?
+What is the use of the <div> tag in HTML?
+What is the use of the <span> tag in HTML?
+What is the use of the <meta> tag in HTML?
+What is the use of the <style> tag in HTML?
+What is the use of the <link> tag in HTML?
+What is the use of the <script> tag in HTML?
+What is the difference between the <strong> and <em> tags in HTML?
+What is the difference between the <b> and <i> tags in HTML?
+What is the difference between the <br> and <hr> tags in HTML?
+What is the difference between the <ul> and <ol> tags in HTML?
+What is the difference between the <div> and <span> tags in HTML?
+What is the use of the <!DOCTYPE> declaration in HTML?
+What is the difference between the HTML5 and previous versions of HTML?
